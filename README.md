@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElsevierSoftwareX/SOFTX_2018_158/master)
+
 # Usiigaci: Instance-aware cell tracking in stain-free phase contrast microscopy enabled by machine learning
 **Hsieh-Fu Tsai<sup>1,2</sup>, Joanna Gajda<sup>3</sup>, Tyler F.W. Sloan<sup>4</sup>, Andrei Rares<sup>5</sup>, and Amy Q. Shen<sup>1</sup>**
 
